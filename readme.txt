@@ -5,4 +5,7 @@ Git has a mutable index called stage.
 hello
 Git tracks changes.
 
+2
+3
+
 
